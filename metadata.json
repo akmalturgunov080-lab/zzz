@@ -1,0 +1,6 @@
+{
+  "name": "Tezlik Poygasi",
+  "description": "Uzbek tilidagi qiziqarli top-down poyga o'yini. Turli mashinalar, xaritalar, ovoz effektlari va rekordlar jadvali bilan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
